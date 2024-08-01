@@ -13,8 +13,8 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <sonar.projectKey>com.web.cal:webapp</sonar.projectKey>
-        <sonar.host.url>http://3.91.21.54:9000> <!-- Replace with your SonarQube server URL -->
-        <sonar.login>squ_1407e82969f65ca96b454661bf0638bf7974963d<!-- Replace with your actual SonarQube token -->
+        <sonar.host.url>http://3.91.21.54:9000/</sonar.host.url> <!-- Replace with your SonarQube server URL -->
+        <sonar.login>squ_1407e82969f65ca96b454661bf0638bf7974963d</sonar.login> <!-- Replace with your actual SonarQube token -->
     </properties>
 
     <dependencies>
